@@ -16,7 +16,7 @@ a:link {
 a:hover {
     color: #d64545;
 }
-header {
+.header1 {
   text-align: center;
   padding: 2rem 1rem 1rem;
   background-color: #1B4A69;
@@ -86,4 +86,10 @@ header h1:hover,
 header .tagline:hover {
   background-size: 100% 100%;
   color: white;
+}
+
+.header2 {
+  background-color: #1B4A69;
+  color: white;
+  padding: 2px;
 }
