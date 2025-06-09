@@ -70,13 +70,7 @@ img {
   border-radius: 10px;
 }
 
-/* Footer */
-footer {
-  text-align: center;
-  padding: 1rem;
-  background-color: #dcdfe3;
-  font-size: 0.9rem;
-}
+
 header h1,
 header .tagline {
   position: relative;
